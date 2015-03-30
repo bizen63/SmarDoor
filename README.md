@@ -1,2 +1,2 @@
 # SmarDoor
-Proyectos de control inteligente de ouertas
+Proyectos de control inteligente de puertas
